@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+
+pod 'Calabash'
+
+
+#pod install --verbose --no-repo-update
+#pod update --verbose --no-repo-update

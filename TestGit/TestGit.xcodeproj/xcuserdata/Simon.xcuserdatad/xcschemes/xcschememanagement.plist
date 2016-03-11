@@ -4,7 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TestGit.xcscheme</key>
+		<key>TestGit-cal.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TestGit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>F4E92FED1C90008800C52B1A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4E930001C900A7700C52B1A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
